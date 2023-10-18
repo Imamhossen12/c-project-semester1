@@ -57,9 +57,13 @@ The file will store the following information for each student:-
 The project includes error handling for various scenarios, such as file I/O errors and insufficient student information.
 
 Future improvements:- The project is a representation of student information of the department. Where the student can easily see their personal information and CGPA. This project will be improve by different ways:-
+
 •Add more features like the ability to generate transcripts, send email notifications to students and faculty, and track student progress towards graduation.
+
 •Make the system more user friendly.
+
 •Use mobile technology.
+
 •Support for multiple users.
 
 Conclusion:- This project documentation has described the requirements, design, implementation, and testing of a department student information system. The system will be a valuable asset to the department, providing a central location to manage all aspects of student information.
