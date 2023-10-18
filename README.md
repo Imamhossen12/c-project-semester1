@@ -7,9 +7,7 @@ Project name:- Department Student Information System.
 The file will store the following information for each student:-
 
     1.Roll Number
-
     2.Name 
-
     3.Contact Number
     4.Password
     5.Batch
@@ -34,25 +32,17 @@ The file will store the following information for each student:-
 Project Structure:-
 
     •The project consists of a single C source file.
-
     •It includes standard C libraries like <stdio.h>, <string.h>, and <stdlib.h> for various functionalities.
 
 Function:- The project contains several functions, each responsible for specific tasks:
 
     •authority:- manage student information and update CGPA.
-
     •add:- manage to add a student by authority
-
     •fill_info:- manage to add information by a student
-
     •login:- manage to log in by a student
-
     •change_p:- manage to change password by a student
-
     •update_cgpa:- manage to update cgpa by the authority.
-
     •info:- to get students roll number
-
     •print:- to get students batch number
 
 Error Handling:
@@ -62,11 +52,8 @@ The project includes error handling for various scenarios, such as file I/O erro
 
     •Add more features like the ability to generate transcripts, send email notifications to students and faculty, and track 
      student progress towards graduation.
-
     •Make the system more user friendly.
-
     •Use mobile technology.
-
     •Support for multiple users.
 
 Conclusion:- This project documentation has described the requirements, design, implementation, and testing of a department student information system. The system will be a valuable asset to the department, providing a central location to manage all aspects of student information.
