@@ -36,13 +36,21 @@ The file will store the following information for each student:-
 •It includes standard C libraries like <stdio.h>, <string.h>, and <stdlib.h> for various functionalities.
 
 Function:- The project contains several functions, each responsible for specific tasks:
+
 •authority:- manage student information and update CGPA.
+
 •add:- manage to add a student by authority
+
 •fill_info:- manage to add information by a student
+
 •login:- manage to log in by a student
+
 •change_p:- manage to change password by a student
+
 •update_cgpa:- manage to update cgpa by the authority.
+
 •info:- to get students roll number
+
 •print:- to get students batch number
 
 Error Handling:
