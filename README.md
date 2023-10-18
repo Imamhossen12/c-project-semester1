@@ -6,11 +6,13 @@ Project name:- Department Student Information System.
 Introduction:- Department student information system is a C-based project where student can add their information but they cannot add their CGPA. There is a authority only who can add the student CGPA.
 The file will store the following information for each student:-
 
-1.Roll Number
-2.Name 
-3.Contact Number
-4.Password
-5.Batch
+1.   Roll Number
+
+2.  Name 
+
+3.  Contact Number
+4.   Password
+5.  Batch
 
 Key Component:-
 •Authority:- There is an authority who can see all the details of the student and who can add and update the CGPA of the students. The authority can add student by Roll number. By using this roll number he/she can see batch wise student information or individual information of a student. The authority has a name and a password. By matching name and password the admin can do this following things:-
