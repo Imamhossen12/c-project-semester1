@@ -28,8 +28,11 @@ The file will store the following information for each student:-
 •Fill Information:- When authority add a student, this student can add his information. Otherwise, he cannot able to fill his information. The student can fill their roll number, name, contact number, create their own password and  batch number.
 
 •Log in to your account:- When a student fill his information then he can log in to his account with his roll number and password. When the roll number and password matching then he can see his individual information and update his password also.
+
 Project Structure:-
+
 •The project consists of a single C source file.
+
 •It includes standard C libraries like <stdio.h>, <string.h>, and <stdlib.h> for various functionalities.
 
 Function:- The project contains several functions, each responsible for specific tasks:
